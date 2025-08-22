@@ -1,9 +1,9 @@
 # odin-projects
 
-## [Home](foundations-course/)
+## [Foundations Courses](foundations-course/)
 
-## [HTML Foundations](foundations-course/html-foundations/)
+### • [HTML Foundations](foundations-course/html-foundations/)
 
-## [CSS Foundations](foundations-course/css-foundations/)
+### • [CSS Foundations](foundations-course/css-foundations/)
 
-## [Javascript Basics](foundations-course/javascript-basics/)
+### • [Javascript Basics](foundations-course/javascript-basics/)
