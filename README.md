@@ -1,6 +1,7 @@
-# odin-projects
+# The Odin Project Pathways
+============================
 
-## [Foundations Courses](foundations-course/)
+## [Foundations Course](foundations-course/)
 
 ### • [HTML Foundations](foundations-course/html-foundations/)
 
